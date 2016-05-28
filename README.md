@@ -1,4 +1,7 @@
 #Should I Call Back AWS Lambda function for Alexa
+[![Build Status](https://travis-ci.org/stephengroat/shouldicallback-alexa.svg?branch=master)](https://travis-ci.org/stephengroat/shouldicallback-alexa)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat)](/LICENSE)
+
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that queries the web to determine the reputation of a US 10 digit phone number for the Amazon Echo using the Alexa SDK.
 
 ## Concepts
